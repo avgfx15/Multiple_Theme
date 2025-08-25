@@ -1,0 +1,22 @@
+const Themes = [
+  'blue',
+  'green',
+  'yellow',
+  'purple',
+  'orange',
+  'cyan',
+  'indigo',
+  'lime',
+  'brown',
+  'violet',
+  'amber',
+  'emerald',
+  'fuchsia',
+  'slate',
+  'dark',
+  'light',
+  'gray',
+  'pink',
+  'teal',
+];
+export default Themes;
